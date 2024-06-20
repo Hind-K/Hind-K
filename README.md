@@ -1,1 +1,1 @@
-[![hkhallou's 42 stats](https://badge.mediaplus.ma/kettlebells/hkhallou)](https://github.com/oakoudad/badge42)
+[![hkhallou's 42 stats](https://badge.mediaplus.ma/greenbinary/hkhallou)](https://github.com/oakoudad/badge42)
